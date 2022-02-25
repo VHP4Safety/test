@@ -1,7 +1,7 @@
 # test
 
 ```mermaid
-flowchart ID
+flowchart ID;
     A --> B ;
 ```
 
